@@ -1,8 +1,8 @@
 # eMAG-Notifications 
 I am looking to buy a laptop with the following features: 
-To be in stoc
-Price between: 3.900 - 6.000 RON
-Brand - Asus
+ / To be in stoc
+ / Price between: 3.900 - 6.000 RON
+ / Brand - Asus
 Type - Gaming
 Processor - Intel® Core™ i7 
 Display Size - up to 15.6"  
