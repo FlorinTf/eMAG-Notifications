@@ -37,11 +37,11 @@ def send_sms():
     if text_sms == '':
         pass
     else:
-        account_sid = 'AC6060eb6b0f7f33418d4364ec0d464cd9'
-        auth_token = 'b66b554e49ae70ab63ac61c9d66083a7'
+        account_sid = 'AKJdg48738f7hjxhb'
+        auth_token = 'fdgdf75fa6fdf76gdf8hf7gh96'
         client = Client(account_sid, auth_token)
         message = client.messages.create(
-            messaging_service_sid='MG8bc5f4c385b7ea7db8b9ce2b166910e0',
+            messaging_service_sid='MG8bc5vkdh65hfghfg4h#',
             body=text_sms,
             to='+4073xxxxxx'
         )
