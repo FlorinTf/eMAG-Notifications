@@ -5,7 +5,7 @@ I am looking to buy a laptop with the following features:
  / Brand - Asus
  / Type - Gaming
  / Processor - Intel® Core™ i7 
- / Display Size - up to 15.6"  
+ / Display Size - bigger than 15.6"  
  / Graphics Processor - Dedicated 
  / Sort by: Price: Low to High 
 
