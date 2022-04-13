@@ -1,5 +1,7 @@
 # eMAG-Notifications 
 I am looking to buy a laptop with the following features: 
+
+
  / To be in stoc
  / Price between: 3.900 - 6.000 RON
  / Brand - Asus
