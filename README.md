@@ -10,9 +10,11 @@ I am looking to buy a laptop with the following features:
  / Display Size - bigger than 15.6"  
  / Graphics Processor - Dedicated 
  / Sort by: Price: Low to High 
+ - :clapper: Or you can see my portfolio on my <a href="https://www.youtube.com/channel/UCTVESVE0yPiwvg-VbrLGLuw" target="_blank">Youtube Channel</a></p>&nbsp;</div><br /><p></p>
 
 
 ![Alt Text](https://github.com/FlorinTf/eMAG-Notifications/blob/main/eMAG%20WebScraping.gif)
+
 
 
 
